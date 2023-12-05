@@ -13,7 +13,7 @@ function counter(){
       <h2 style='  font-family: "Roboto";
         font-weight: 600;
       font-size: 75px;
-      color: #810000;'>LOOK 👀 I LOVE YOU SO MUCH 😊</h2>`;
+      color: #810000;'>SEE 👀 I LOVE YOU SO MUCH 😊</h2>`;
         }else{
               div.innerHTML = `<p style='  font-family: "Roboto";
         font-weight: 600;
